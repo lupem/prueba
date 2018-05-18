@@ -1,0 +1,72 @@
+
+header {
+	background-color: #288DB7;
+}
+
+#sec-intro {
+	background-color: #288DB7;
+	background-repeat: no-repeat;
+	background-position: bottom;
+	background-size: cover;
+	color: #fff;
+	padding-top: 15%;
+	padding-bottom: 50px;
+}
+
+#sec-service{
+	margin-top: 50px;
+	text-align: center;
+}
+
+#sec-service img{
+	align-content: center;
+	margin-bottom: 60px;
+}
+
+#sec-service h3{
+	color:#747474;
+	font-size: 16px;
+	font-weight: 700;
+}
+
+#sec-service p{
+	color: #747474;
+}
+
+#sec-easy{
+	background-color: #288DB7;
+	color: #fff;
+	margin-top: 50px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+#sec-special{
+	margin-top: 50px;
+	text-align: center;
+}
+
+#sec-specialfoto{
+	text-align: center;
+	color: #747474;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+#sec-specialfoto h5{
+	font-size: 15px;
+	font-weight: 700;
+}
+
+#sec-fotos{
+	background-color: #288DB7;
+	padding-top: 150px;
+	padding-bottom: 150px;
+	
+}
+
+
+
+
+
+
